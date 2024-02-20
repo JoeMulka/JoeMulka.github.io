@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Joe Mulka"
-  avatar           : /assets/images/edwins_wedding.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/edwins_wedding.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Combining scientific curiosity and engineering expertise to build quality software in highly specialized applications"
   location         : "Chicago, IL"
   email            :
